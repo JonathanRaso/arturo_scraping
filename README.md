@@ -16,6 +16,14 @@ Optionnel: vous pouvez également vous amuser à créer une base de données SQL
 
 ---
 
+## Ressources
+
+[IMDb "Top 250" (Sorted by Popularity Ascending) - IMDb](https://www.imdb.com/search/title/?groups=top_250&sort=user_rating)
+
+[Rotten Tomatoes: Movies | TV Shows | Movie Trailers | Reviews](https://www.rottentomatoes.com/)
+
+---
+
 ## **Modalités pédagogiques**
 
 Vous disposez de 3 jours en équipe pour réaliser ce projet et faire un présentation technique. La date limite est le jeudi 4 Novembre à 14h pour démarrer les présentations à distance.
